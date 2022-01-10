@@ -1,0 +1,281 @@
+timestamp,log_type,message
+0,Log,Selected conditon is WP6_1_A
+1.076107,Log,Loaded: C:\Users\jmartin\Documents\WP6_Data\WP6_participant_list.csv
+7.393474,Log,Updating: C:\Users\jmartin\Documents\WP6_Data\WP6_participant_list.csv
+7.393474,Log,Number of Trials in block 1 is 10 and criterium is 2
+7.393474,Log,Number of Trials in block 2 is 4 and criterium is 99
+7.393474,Log,Number of Trials in block 3 is 3 and criterium is 99
+7.393474,Log,Number of Trials in block 4 is 15 and criterium is 99
+7.393474,Log,Assign settings for block 1
+7.393474,Log,Trial generation: tA_F - training - feedback true - skippable false - countable true - Local_TrainingA_19-08-27 - next ui none - for index 0
+7.393474,Log,Trial generation: tA_F - training - feedback true - skippable false - countable true - Local_TrainingA_19-08-27 - next ui none - for index 1
+7.393474,Log,Trial generation: tA_F - training - feedback true - skippable false - countable true - Local_TrainingA_19-08-27 - next ui GuidancePart1 - for index 2
+7.393474,Log,Trial generation: gA_v - guidance - feedback false - skippable true - countable false - Local_GuidanceA_19-08-27 - next ui GuidancePart2 - for index 3
+7.393474,Log,Trial generation: tA_F - training - feedback true - skippable false - countable false - Local_TrainingA_19-08-27 - next ui none - for index 4
+7.393474,Log,Trial generation: tA_F - training - feedback true - skippable false - countable false - Local_TrainingA_19-08-27 - next ui Main1Part3 - for index 5
+7.393474,Log,Trial generation: tA_noF - training - feedback false - skippable false - countable false - Local_TrainingA_19-08-27 - next ui Main1Part4 - for index 6
+7.393474,Log,Trial generation: tA_F - training - feedback true - skippable false - countable false - Local_TrainingA_19-08-27 - next ui none - for index 7
+7.393474,Log,Trial generation: tA_F - training - feedback true - skippable false - countable false - Local_TrainingA_19-08-27 - next ui Main1Part3 - for index 8
+7.393474,Log,Trial generation: tA_noF - training - feedback false - skippable false - countable false - Local_TrainingA_19-08-27 - next ui MainEgoPart1 - for index 9
+7.393474,Log,Assign settings for block 2
+7.393474,Log,Trial generation: peA_noF - probe_ego - feedback false - skippable false - countable false - Local_EgoA_19-08-27 - next ui MainEgoPart4 - for index 0
+7.393474,Log,Trial generation: peA_F - probe_ego - feedback true - skippable false - countable false - Local_EgoA_19-08-27 - next ui none - for index 1
+7.393474,Log,Trial generation: peA_F - probe_ego - feedback true - skippable false - countable false - Local_EgoA_19-08-27 - next ui MainEgoPart5 - for index 2
+7.393474,Log,Trial generation: peA_noF - probe_ego - feedback false - skippable false - countable false - Local_EgoA_19-08-27 - next ui MainMixedPart1 - for index 3
+7.393474,Log,Assign settings for block 3
+7.393474,Log,Trial generation: paG_noF - probe_allo_startG - feedback false - skippable false - countable false - Local_AlloG_19-08-27 - next ui MainMixedPart3 - for index 0
+7.393474,Log,Trial generation: paG_F - probe_allo_startG - feedback true - skippable false - countable false - Local_AlloG_19-08-27 - next ui MainMixedPart4 - for index 1
+7.393474,Log,Trial generation: paG_noF - probe_allo_startG - feedback false - skippable false - countable false - Local_AlloG_19-08-27 - next ui MainAlloPart1 - for index 2
+7.393474,Log,Assign settings for block 4
+7.393474,Log,Trial generation: paC_noF - probe_allo_startC - feedback false - skippable false - countable false - Local_AlloC_19-08-27 - next ui none - for index 0
+7.393474,Log,Trial generation: paI_noF - probe_allo_startI - feedback false - skippable false - countable false - Local_AlloI_19-08-27 - next ui MainAlloPart4 - for index 1
+7.393474,Log,Trial generation: paC_F - probe_allo_startC - feedback true - skippable false - countable false - Local_AlloC_19-08-27 - next ui none - for index 2
+7.393474,Log,Trial generation: tA_F - training - feedback true - skippable false - countable false - Local_TrainingA_19-08-27 - next ui none - for index 3
+7.393474,Log,Trial generation: paI_F - probe_allo_startI - feedback true - skippable false - countable false - Local_AlloI_19-08-27 - next ui none - for index 4
+7.393474,Log,Trial generation: paG_F - probe_allo_startG - feedback true - skippable false - countable false - Local_AlloG_19-08-27 - next ui none - for index 5
+7.393474,Log,Trial generation: paI_F - probe_allo_startI - feedback true - skippable false - countable false - Local_AlloI_19-08-27 - next ui none - for index 6
+7.393474,Log,Trial generation: paC_F - probe_allo_startC - feedback true - skippable false - countable false - Local_AlloC_19-08-27 - next ui none - for index 7
+7.393474,Log,Trial generation: paG_F - probe_allo_startG - feedback true - skippable false - countable false - Local_AlloG_19-08-27 - next ui none - for index 8
+7.393474,Log,Trial generation: tA_F - training - feedback true - skippable false - countable false - Local_TrainingA_19-08-27 - next ui MainAlloPart6 - for index 9
+7.393474,Log,Trial generation: paC_noF - probe_allo_startC - feedback false - skippable false - countable false - Local_AlloC_19-08-27 - next ui none - for index 10
+7.393474,Log,Trial generation: paG_noF - probe_allo_startG - feedback false - skippable false - countable false - Local_AlloG_19-08-27 - next ui none - for index 11
+7.393474,Log,Trial generation: paI_noF - probe_allo_startI - feedback false - skippable false - countable false - Local_AlloI_19-08-27 - next ui none - for index 12
+7.393474,Log,Trial generation: paE_noF - probe_allo_startE - feedback false - skippable false - countable false - Local_AlloE_19-08-27 - next ui none - for index 13
+7.393474,Log,Trial generation: tA_noF - training - feedback false - skippable false - countable false - Local_TrainingA_19-08-27 - next ui End - for index 14
+70.22052,Log,Load scene: Global_Main_19-08-27 of type  at 70.22052
+70.22052,Log,Load main block and start first trial: 70.22052
+70.22052,Log,Load scene: Local_TrainingA_19-08-27 of type training at 70.22052
+70.24553,Log,All local feedback objects kept enabled for feedback type True in session 1
+70.24553,Log,All landmarks enabled for trial type training
+135,Log,Player has entered trigger: 135
+135.0154,Log,Current trial has ended: 135.0154
+139.0258,Log,Unload scene: Local_TrainingA_19-08-27 of type training at 139.0258
+139.0258,Log,Load scene: Local_TrainingA_19-08-27 of type training at 139.0258
+139.0258,Log,Begin next trial: 139.0258
+139.0337,Log,All local feedback objects kept enabled for feedback type True in session 1
+139.0337,Log,All landmarks enabled for trial type training
+181,Log,Player has entered trigger: 181
+181.0096,Log,Current trial has ended: 181.0096
+185.0201,Log,Unload scene: Local_TrainingA_19-08-27 of type training at 185.0201
+185.0201,Log,Load scene: Local_TrainingA_19-08-27 of type training at 185.0201
+185.0201,Log,Begin next trial: 185.0201
+185.0291,Log,All local feedback objects kept enabled for feedback type True in session 1
+185.0291,Log,All landmarks enabled for trial type training
+212.8,Log,Player has entered trigger: 212.8
+212.8142,Log,Current trial has ended: 212.8142
+216.8204,Log,Unload scene: Local_TrainingA_19-08-27 of type training at 216.8204
+216.8204,Log,Load scene: Local_TrainingA_19-08-27 of type training at 216.8204
+216.8204,Log,Begin next trial: 216.8204
+216.8284,Log,All local feedback objects kept enabled for feedback type True in session 1
+216.8284,Log,All landmarks enabled for trial type training
+242.8,Log,Player has entered trigger: 242.8
+242.8089,Log,Current trial has ended: 242.8089
+246.8101,Log,Unload scene: Local_TrainingA_19-08-27 of type training at 246.8101
+246.8101,Log,Load scene: Local_TrainingA_19-08-27 of type training at 246.8101
+246.8101,Log,Begin next trial: 246.8101
+246.8186,Log,All local feedback objects kept enabled for feedback type True in session 1
+246.8186,Log,All landmarks enabled for trial type training
+272.44,Log,Player has entered trigger: 272.44
+272.4528,Log,Current trial has ended: 272.4528
+276.462,Log,Unload scene: Local_TrainingA_19-08-27 of type training at 276.462
+276.462,Log,Load scene: Local_TrainingA_19-08-27 of type training at 276.462
+276.462,Log,Close menu and begin next trial : 276.462
+276.4717,Log,Disable Trigger_F(E)_GoalInvisible
+276.4717,Log,All local feedback objects disabled for feedback type False in session 1
+276.4717,Log,All landmarks enabled for trial type training
+316.1735,Log,Selected position is True - trigger Trigger_noF(E)
+316.1735,Log,Current trial has ended: 316.1735
+316.1735,Log,Unload scene: Local_TrainingA_19-08-27 of type training at 316.1735
+316.1735,Log,Load scene: Local_TrainingA_19-08-27 of type training at 316.1735
+316.1735,Log,Close menu and begin next trial : 316.1735
+316.1815,Log,All local feedback objects kept enabled for feedback type True in session 1
+316.1815,Log,All landmarks enabled for trial type training
+341.9,Log,Player has entered trigger: 341.9
+341.9152,Log,Current trial has ended: 341.9152
+345.9288,Log,Unload scene: Local_TrainingA_19-08-27 of type training at 345.9288
+345.9288,Log,Load scene: Local_TrainingA_19-08-27 of type training at 345.9288
+345.9288,Log,Begin next trial: 345.9288
+345.9368,Log,All local feedback objects kept enabled for feedback type True in session 1
+345.9368,Log,All landmarks enabled for trial type training
+371.54,Log,Player has entered trigger: 371.54
+371.552,Log,Current trial has ended: 371.552
+375.56,Log,Unload scene: Local_TrainingA_19-08-27 of type training at 375.56
+375.56,Log,Load scene: Local_TrainingA_19-08-27 of type training at 375.56
+375.56,Log,Close menu and begin next trial : 375.56
+375.5693,Log,Disable Trigger_F(E)_GoalInvisible
+375.5693,Log,All local feedback objects disabled for feedback type False in session 1
+375.5693,Log,All landmarks enabled for trial type training
+401.2312,Log,Selected position is True - trigger Trigger_noF(E)
+401.2312,Log,Current trial has ended: 401.2312
+401.2312,Log,Unload scene: Local_TrainingA_19-08-27 of type probe_ego at 401.2312
+401.2312,Log,Load scene: Local_EgoA_19-08-27 of type probe_ego at 401.2312
+401.2312,Log,Load egocentric trial : 401.2312
+401.2395,Log,Disable Trigger_F(E)_GoalInvisible
+401.2395,Log,All local feedback objects disabled for feedback type False in session 1
+401.2395,Log,Disable Forest 1
+401.2395,Log,Disable Forest 2
+401.2395,Log,Disable Mountain 1
+401.2395,Log,Disable Mountain 2
+401.2395,Log,Disable Surrounding Hills
+401.2395,Log,Disable Tower
+401.2395,Log,All landmarks disabled for trial type probe_ego
+432.4121,Log,Selected position is True - trigger Trigger_noF(E)
+432.4121,Log,Current trial has ended: 432.4121
+432.4121,Log,Unload scene: Local_EgoA_19-08-27 of type probe_ego at 432.4121
+432.4121,Log,Load scene: Local_EgoA_19-08-27 of type probe_ego at 432.4121
+432.4121,Log,Load egocentric trial : 432.4121
+432.424,Log,All local feedback objects kept enabled for feedback type True in session 1
+432.424,Log,All landmarks disabled for trial type probe_ego
+455.64,Log,Player has entered trigger: 455.64
+455.6521,Log,Current trial has ended: 455.6521
+459.6552,Log,Unload scene: Local_EgoA_19-08-27 of type probe_ego at 459.6552
+459.6552,Log,Load scene: Local_EgoA_19-08-27 of type probe_ego at 459.6552
+459.6552,Log,Begin next trial: 459.6552
+459.6653,Log,All local feedback objects kept enabled for feedback type True in session 1
+459.6653,Log,All landmarks disabled for trial type probe_ego
+483.32,Log,Player has entered trigger: 483.32
+483.3313,Log,Current trial has ended: 483.3313
+487.3389,Log,Unload scene: Local_EgoA_19-08-27 of type probe_ego at 487.3389
+487.3389,Log,Load scene: Local_EgoA_19-08-27 of type probe_ego at 487.3389
+487.3389,Log,Load egocentric trial : 487.3389
+487.3459,Log,Disable Trigger_F(E)_GoalInvisible
+487.3459,Log,All local feedback objects disabled for feedback type False in session 1
+487.3459,Log,All landmarks disabled for trial type probe_ego
+513.7111,Log,Selected position is True - trigger Trigger_noF(E)
+513.7111,Log,Current trial has ended: 513.7111
+513.7111,Log,Unload scene: Local_EgoA_19-08-27 of type probe_allo_startG at 513.7111
+513.7111,Log,Load scene: Local_AlloG_19-08-27 of type probe_allo_startG at 513.7111
+513.7111,Log,Load mixed trial : 513.7111
+513.7189,Log,Disable Trigger_F(E)_GoalInvisible
+513.7189,Log,All local feedback objects disabled for feedback type False in session 1
+513.7189,Log,All landmarks enabled for trial type probe_allo_startG
+542.6672,Log,Selected position is False - trigger none
+542.6672,Log,Current trial has ended: 542.6672
+542.6672,Log,Unload scene: Local_AlloG_19-08-27 of type probe_allo_startG at 542.6672
+542.6672,Log,Load scene: Local_AlloG_19-08-27 of type probe_allo_startG at 542.6672
+542.6672,Log,Load mixed trial : 542.6672
+542.6782,Log,All local feedback objects kept enabled for feedback type True in session 1
+542.6782,Log,All landmarks enabled for trial type probe_allo_startG
+620.74,Log,Player has entered trigger: 620.74
+620.7526,Log,Current trial has ended: 620.7526
+624.7587,Log,Unload scene: Local_AlloG_19-08-27 of type probe_allo_startG at 624.7587
+624.7587,Log,Load scene: Local_AlloG_19-08-27 of type probe_allo_startG at 624.7587
+624.7587,Log,Load mixed trial : 624.7587
+624.7673,Log,Disable Trigger_F(E)_GoalInvisible
+624.7673,Log,All local feedback objects disabled for feedback type False in session 1
+624.7673,Log,All landmarks enabled for trial type probe_allo_startG
+653.184,Log,Selected position is False - trigger none
+653.184,Log,Current trial has ended: 653.184
+653.184,Log,Unload scene: Local_AlloG_19-08-27 of type probe_allo_startC at 653.184
+653.184,Log,Load scene: Local_AlloC_19-08-27 of type probe_allo_startC at 653.184
+653.184,Log,Load allocentric trial : 653.184
+653.1943,Log,Disable Trigger_F(E)_GoalInvisible
+653.1943,Log,All local feedback objects disabled for feedback type False in session 1
+653.1943,Log,All landmarks enabled for trial type probe_allo_startC
+687.9688,Log,Selected position is False - trigger none
+687.9688,Log,Current trial has ended: 687.9688
+687.9688,Log,Unload scene: Local_AlloC_19-08-27 of type probe_allo_startI at 687.9688
+687.9688,Log,Load scene: Local_AlloI_19-08-27 of type probe_allo_startI at 687.9688
+687.9688,Log,Begin next trial: 687.9688
+687.9818,Log,Disable Trigger_F(E)_GoalInvisible
+687.9818,Log,All local feedback objects disabled for feedback type False in session 1
+687.9818,Log,All landmarks enabled for trial type probe_allo_startI
+728.1313,Log,Selected position is True - trigger Trigger_noF(E)
+728.1313,Log,Current trial has ended: 728.1313
+728.1313,Log,Unload scene: Local_AlloI_19-08-27 of type probe_allo_startC at 728.1313
+728.1313,Log,Load scene: Local_AlloC_19-08-27 of type probe_allo_startC at 728.1313
+728.1313,Log,Load allocentric trial : 728.1313
+728.1393,Log,All local feedback objects kept enabled for feedback type True in session 1
+728.1393,Log,All landmarks enabled for trial type probe_allo_startC
+818.1369,Log,Time out at 818.1369
+818.1369,Log,Current trial has ended: 818.1369
+818.1369,Log,Unload scene: Local_AlloC_19-08-27 of type training at 818.1369
+818.1369,Log,Load scene: Local_TrainingA_19-08-27 of type training at 818.1369
+818.1369,Log,Begin next trial: 818.1369
+818.1479,Log,All local feedback objects kept enabled for feedback type True in session 1
+818.1479,Log,All landmarks enabled for trial type training
+844.04,Log,Player has entered trigger: 844.04
+844.0508,Log,Current trial has ended: 844.0508
+848.0522,Log,Unload scene: Local_TrainingA_19-08-27 of type probe_allo_startI at 848.0522
+848.0522,Log,Load scene: Local_AlloI_19-08-27 of type probe_allo_startI at 848.0522
+848.0522,Log,Begin next trial: 848.0522
+848.0618,Log,All local feedback objects kept enabled for feedback type True in session 1
+848.0618,Log,All landmarks enabled for trial type probe_allo_startI
+878.64,Log,Player has entered trigger: 878.64
+878.6578,Log,Current trial has ended: 878.6578
+882.6685,Log,Unload scene: Local_AlloI_19-08-27 of type probe_allo_startG at 882.6685
+882.6685,Log,Load scene: Local_AlloG_19-08-27 of type probe_allo_startG at 882.6685
+882.6685,Log,Begin next trial: 882.6685
+882.6763,Log,All local feedback objects kept enabled for feedback type True in session 1
+882.6763,Log,All landmarks enabled for trial type probe_allo_startG
+972.6687,Log,Time out at 972.6687
+972.6687,Log,Current trial has ended: 972.6687
+972.6687,Log,Unload scene: Local_AlloG_19-08-27 of type probe_allo_startI at 972.6687
+972.6687,Log,Load scene: Local_AlloI_19-08-27 of type probe_allo_startI at 972.6687
+972.6687,Log,Begin next trial: 972.6687
+972.6808,Log,All local feedback objects kept enabled for feedback type True in session 1
+972.6808,Log,All landmarks enabled for trial type probe_allo_startI
+1062.678,Log,Time out at 1062.678
+1062.678,Log,Current trial has ended: 1062.678
+1062.678,Log,Unload scene: Local_AlloI_19-08-27 of type probe_allo_startC at 1062.678
+1062.678,Log,Load scene: Local_AlloC_19-08-27 of type probe_allo_startC at 1062.678
+1062.678,Log,Begin next trial: 1062.678
+1062.686,Log,All local feedback objects kept enabled for feedback type True in session 1
+1062.686,Log,All landmarks enabled for trial type probe_allo_startC
+1106.62,Log,Player has entered trigger: 1106.62
+1106.632,Log,Current trial has ended: 1106.632
+1110.644,Log,Unload scene: Local_AlloC_19-08-27 of type probe_allo_startG at 1110.644
+1110.644,Log,Load scene: Local_AlloG_19-08-27 of type probe_allo_startG at 1110.644
+1110.644,Log,Begin next trial: 1110.644
+1110.654,Log,All local feedback objects kept enabled for feedback type True in session 1
+1110.654,Log,All landmarks enabled for trial type probe_allo_startG
+1199.24,Log,Player has entered trigger: 1199.24
+1199.258,Log,Current trial has ended: 1199.258
+1203.267,Log,Unload scene: Local_AlloG_19-08-27 of type training at 1203.267
+1203.267,Log,Load scene: Local_TrainingA_19-08-27 of type training at 1203.267
+1203.267,Log,Begin next trial: 1203.267
+1203.279,Log,All local feedback objects kept enabled for feedback type True in session 1
+1203.279,Log,All landmarks enabled for trial type training
+1257.38,Log,Player has entered trigger: 1257.38
+1257.394,Log,Current trial has ended: 1257.394
+1261.407,Log,Unload scene: Local_TrainingA_19-08-27 of type probe_allo_startC at 1261.407
+1261.407,Log,Load scene: Local_AlloC_19-08-27 of type probe_allo_startC at 1261.407
+1261.407,Log,Load allocentric trial : 1261.407
+1261.417,Log,Disable Trigger_F(E)_GoalInvisible
+1261.417,Log,All local feedback objects disabled for feedback type False in session 1
+1261.417,Log,All landmarks enabled for trial type probe_allo_startC
+1291.038,Log,Selected position is False - trigger none
+1291.038,Log,Current trial has ended: 1291.038
+1291.038,Log,Unload scene: Local_AlloC_19-08-27 of type probe_allo_startG at 1291.038
+1291.038,Log,Load scene: Local_AlloG_19-08-27 of type probe_allo_startG at 1291.038
+1291.038,Log,Begin next trial: 1291.038
+1291.05,Log,Disable Trigger_F(E)_GoalInvisible
+1291.05,Log,All local feedback objects disabled for feedback type False in session 1
+1291.05,Log,All landmarks enabled for trial type probe_allo_startG
+1322.574,Log,Selected position is False - trigger none
+1322.574,Log,Current trial has ended: 1322.574
+1322.574,Log,Unload scene: Local_AlloG_19-08-27 of type probe_allo_startI at 1322.574
+1322.574,Log,Load scene: Local_AlloI_19-08-27 of type probe_allo_startI at 1322.574
+1322.574,Log,Begin next trial: 1322.574
+1322.586,Log,Disable Trigger_F(E)_GoalInvisible
+1322.586,Log,All local feedback objects disabled for feedback type False in session 1
+1322.586,Log,All landmarks enabled for trial type probe_allo_startI
+1350.14,Log,Selected position is False - trigger none
+1350.14,Log,Current trial has ended: 1350.14
+1350.14,Log,Unload scene: Local_AlloI_19-08-27 of type probe_allo_startE at 1350.14
+1350.14,Log,Load scene: Local_AlloE_19-08-27 of type probe_allo_startE at 1350.14
+1350.14,Log,Begin next trial: 1350.14
+1350.152,Log,Disable Trigger_F(E)_GoalInvisible
+1350.152,Log,All local feedback objects disabled for feedback type False in session 1
+1350.152,Log,All landmarks enabled for trial type probe_allo_startE
+1370.059,Log,Selected position is False - trigger none
+1370.059,Log,Current trial has ended: 1370.059
+1370.059,Log,Unload scene: Local_AlloE_19-08-27 of type training at 1370.059
+1370.059,Log,Load scene: Local_TrainingA_19-08-27 of type training at 1370.059
+1370.059,Log,Begin next trial: 1370.059
+1370.067,Log,Disable Trigger_F(E)_GoalInvisible
+1370.067,Log,All local feedback objects disabled for feedback type False in session 1
+1370.067,Log,All landmarks enabled for trial type training
+1396.36,Log,Selected position is True - trigger Trigger_noF(E)
+1396.36,Log,Current trial has ended: 1396.36
+1396.36,Warning,"Joystick disconnected (""SL-6632 Dark Tornado Joystick"")."

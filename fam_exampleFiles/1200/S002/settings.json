@@ -1,0 +1,124 @@
+{
+        "project": "WP6",
+        "session": "0",
+        "version": "P",
+        "manager": "Manager_WP6_19-08-27",
+        "gscene": "Global_Practise_WP6_19-08-27",
+        "lscene_practise_01": "Local_Practise_WP6_01-Joystick_19-08-27",
+        "lscene_practise_02": "Local_Practise_WP6_02-MotorControl_19-08-27",
+        "lscene_practise_03": "Local_Practise_WP6_03-Starmaze_19-08-27",
+        "lscene_trainingA": "Local_TrainingA_19-08-27",
+        "lscene_guidanceA": "Local_GuidanceA_19-08-27",
+        "lscene_probe_eA": "Local_EgoA_19-08-27",
+        "lscene_probe_aI": "Local_AlloI_19-08-27",
+        "lscene_probe_aC": "Local_AlloC_19-08-27",
+        "lscene_probe_aG": "Local_AlloG_19-08-27",
+        "lscene_probe_aGI": "Local_AlloGI_19-08-27",
+        "lscene_probe_aIA": "Local_AlloIA_19-08-27",
+        "lscene_probe_aAC": "Local_AlloAC_19-08-27",
+        "lscene_probe_aE": "Local_AlloE_19-08-27",
+        "n_block": 1,
+        "o_block": [
+            "practise"
+        ],
+        "n_trials_1": 5,
+        "o_trials_1": [
+            "\u00fct01_noF",
+            "\u00fct02_F",
+            "\u00fct03_F",
+            "\u00fct03_F",
+            "\u00fct03_noF"
+        ],
+        "o_info_1": [
+            "PractisePart2",
+            "PractisePart3",
+            "PractisePart4",
+            "PractisePart5",
+            "End"
+        ],
+        "o_skip_1": [
+            "false",
+            "false",
+            "false",
+            "false",
+            "false"
+        ],
+        "o_count_1": [
+            "false",
+            "false",
+            "false",
+            "false",
+            "false"
+        ],
+        "o_crit_1": 99,
+        "n_trials_2": 0,
+        "o_trials_2": [
+            
+        ],
+        "o_info_2": [
+            
+        ],
+        "o_skip_2": [
+            
+        ],
+        "o_count_2": [
+            
+        ],
+        "o_crit_2": 0,
+        "n_trials_3": 0,
+        "o_trials_3": [
+            
+        ],
+        "o_info_3": [
+            
+        ],
+        "o_skip_3": [
+            
+        ],
+        "o_count_3": [
+            
+        ],
+        "o_crit_3": 0,
+        "n_trials_4": 0,
+        "o_trials_4": [
+            
+        ],
+        "o_info_4": [
+            
+        ],
+        "o_skip_4": [
+            
+        ],
+        "o_count_4": [
+            
+        ],
+        "o_crit_4": 0,
+        "n_trials_5": 0,
+        "o_trials_5": [
+            
+        ],
+        "o_info_5": [
+            
+        ],
+        "o_skip_5": [
+            
+        ],
+        "o_count_5": [
+            
+        ],
+        "o_crit_5": 0,
+        "n_trials_6": 0,
+        "o_trials_6": [
+            
+        ],
+        "o_info_6": [
+            
+        ],
+        "o_skip_6": [
+            
+        ],
+        "o_count_6": [
+            
+        ],
+        "o_crit_6": 0
+    }

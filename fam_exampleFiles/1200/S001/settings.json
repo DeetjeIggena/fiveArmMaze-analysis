@@ -1,0 +1,223 @@
+{
+        "project": "WP6",
+        "session": "1",
+        "version": "A",
+        "manager": "Manager_WP6_19-08-27",
+        "gscene": "Global_Main_19-08-27",
+        "lscene_practise_01": "Local_Practise_WP6_01-Joystick_19-08-27",
+        "lscene_practise_02": "Local_Practise_WP6_02-MotorControl_19-08-27",
+        "lscene_practise_03": "Local_Practise_WP6_03-Starmaze_19-08-27",
+        "lscene_trainingA": "Local_TrainingA_19-08-27",
+        "lscene_guidanceA": "Local_GuidanceA_19-08-27",
+        "lscene_probe_eA": "Local_EgoA_19-08-27",
+        "lscene_probe_aI": "Local_AlloI_19-08-27",
+        "lscene_probe_aC": "Local_AlloC_19-08-27",
+        "lscene_probe_aG": "Local_AlloG_19-08-27",
+        "lscene_probe_aGI": "Local_AlloGI_19-08-27",
+        "lscene_probe_aIA": "Local_AlloIA_19-08-27",
+        "lscene_probe_aAC": "Local_AlloAC_19-08-27",
+        "lscene_probe_aE": "Local_AlloE_19-08-27",
+        "n_block": 4,
+        "o_block": [
+            "training",
+            "ego",
+            "mixed",
+            "allo"
+        ],
+        "n_trials_1": 10,
+        "o_trials_1": [
+            "tA_F",
+            "tA_F",
+            "tA_F",
+            "gA_v",
+            "tA_F",
+            "tA_F",
+            "tA_noF",
+            "tA_F",
+            "tA_F",
+            "tA_noF"
+        ],
+        "o_info_1": [
+            "none",
+            "none",
+            "GuidancePart1",
+            "GuidancePart2",
+            "none",
+            "Main1Part3",
+            "Main1Part4",
+            "none",
+            "Main1Part3",
+            "MainEgoPart1"
+        ],
+        "o_skip_1": [
+            "false",
+            "false",
+            "false",
+            "true",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false"
+        ],
+        "o_count_1": [
+            "true",
+            "true",
+            "true",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false"
+        ],
+        "o_crit_1": 2,
+        "n_trials_2": 4,
+        "o_trials_2": [
+            "peA_noF",
+            "peA_F",
+            "peA_F",
+            "peA_noF"
+        ],
+        "o_info_2": [
+            "MainEgoPart4",
+            "none",
+            "MainEgoPart5",
+            "MainMixedPart1"
+        ],
+        "o_skip_2": [
+            "false",
+            "false",
+            "false",
+            "false"
+        ],
+        "o_count_2": [
+            "false",
+            "false",
+            "false",
+            "false"
+        ],
+        "o_crit_2": 99,
+        "n_trials_3": 3,
+        "o_trials_3": [
+            "paG_noF",
+            "paG_F",
+            "paG_noF"
+        ],
+        "o_info_3": [
+            "MainMixedPart3",
+            "MainMixedPart4",
+            "MainAlloPart1"
+        ],
+        "o_skip_3": [
+            "false",
+            "false",
+            "false"
+        ],
+        "o_count_3": [
+            "false",
+            "false",
+            "false"
+        ],
+        "o_crit_3": 99,
+        "n_trials_4": 15,
+        "o_trials_4": [
+            "paC_noF",
+            "paI_noF",
+            "paC_F",
+            "tA_F",
+            "paI_F",
+            "paG_F",
+            "paI_F",
+            "paC_F",
+            "paG_F",
+            "tA_F",
+            "paC_noF",
+            "paG_noF",
+            "paI_noF",
+            "paE_noF",
+            "tA_noF"
+        ],
+        "o_info_4": [
+            "none",
+            "MainAlloPart4",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "none",
+            "MainAlloPart6",
+            "none",
+            "none",
+            "none",
+            "none",
+            "End"
+        ],
+        "o_skip_4": [
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false"
+        ],
+        "o_count_4": [
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false",
+            "false"
+        ],
+        "o_crit_4": 99,
+        "n_trials_5": 0,
+        "o_trials_5": [
+            
+        ],
+        "o_info_5": [
+            
+        ],
+        "o_skip_5": [
+            
+        ],
+        "o_count_5": [
+            
+        ],
+        "o_crit_5": 0,
+        "n_trials_6": 0,
+        "o_trials_6": [
+            
+        ],
+        "o_info_6": [
+            
+        ],
+        "o_skip_6": [
+            
+        ],
+        "o_count_6": [
+            
+        ],
+        "o_crit_6": 0
+    }

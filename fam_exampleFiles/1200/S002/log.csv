@@ -1,0 +1,49 @@
+timestamp,log_type,message
+0,Log,Selected conditon is WP6_1_A
+5.283607,Log,Loaded: C:\Users\jmartin\Documents\WP6_Data\WP6_participant_list.csv
+11.39254,Log,Selected conditon is WP6_Practise
+13.37225,Log,Updating: C:\Users\jmartin\Documents\WP6_Data\WP6_participant_list.csv
+13.37225,Log,Number of Trials in block 1 is 5 and criterium is 99
+13.37225,Log,Assign settings for block 1
+13.37225,Log,Trial generation: üt01_noF - practise_01_joystick - feedback false - skippable false - countable false - Local_Practise_WP6_01-Joystick_19-08-27 - next ui PractisePart2 - for index 0
+13.37225,Log,Trial generation: üt02_F - practise_02_motorcontrol - feedback true - skippable false - countable false - Local_Practise_WP6_02-MotorControl_19-08-27 - next ui PractisePart3 - for index 1
+13.37225,Log,Trial generation: üt03_F - practise_03_starmaze - feedback true - skippable false - countable false - Local_Practise_WP6_03-Starmaze_19-08-27 - next ui PractisePart4 - for index 2
+13.37225,Log,Trial generation: üt03_F - practise_03_starmaze - feedback true - skippable false - countable false - Local_Practise_WP6_03-Starmaze_19-08-27 - next ui PractisePart5 - for index 3
+13.37225,Log,Trial generation: üt03_noF - practise_03_starmaze - feedback false - skippable false - countable false - Local_Practise_WP6_03-Starmaze_19-08-27 - next ui End - for index 4
+175.7885,Log,Load scene: Global_Practise_WP6_19-08-27 of type  at 175.7885
+175.7885,Log,Load practise block and start first trial: 175.7885
+175.7885,Log,Load scene: Local_Practise_WP6_01-Joystick_19-08-27 of type practise_01_joystick at 175.7885
+175.8036,Log,All local feedback objects disabled for feedback type False in session 0
+222.1859,Log,Selected position is True - trigger Trigger_noF(Practise-01)
+222.1859,Log,Current trial has ended: 222.1859
+222.1859,Log,Unload scene: Local_Practise_WP6_01-Joystick_19-08-27 of type practise_02_motorcontrol at 222.1859
+222.1859,Log,Load scene: Local_Practise_WP6_02-MotorControl_19-08-27 of type practise_02_motorcontrol at 222.1859
+222.1859,Log,Load practise block and start trial: 222.1859
+222.197,Log,All local feedback objects kept enabled for feedback type True in session 0
+320.76,Log,Ending motor control trial
+320.7712,Log,Current trial has ended: 320.7712
+324.7788,Log,Unload scene: Local_Practise_WP6_02-MotorControl_19-08-27 of type practise_03_starmaze at 324.7788
+324.7788,Log,Load scene: Local_Practise_WP6_03-Starmaze_19-08-27 of type practise_03_starmaze at 324.7788
+324.7788,Log,Load practise block and start trial: 324.7788
+324.7904,Log,All local feedback objects kept enabled for feedback type True in session 0
+324.7904,Log,All practise control objects kept enabled for enablePractiseControl setting True in trial type practise_03_starmaze
+347.16,Log,Player has entered trigger: 347.16
+347.1729,Log,Current trial has ended: 347.1729
+351.1768,Log,Unload scene: Local_Practise_WP6_03-Starmaze_19-08-27 of type practise_03_starmaze at 351.1768
+351.1768,Log,Load scene: Local_Practise_WP6_03-Starmaze_19-08-27 of type practise_03_starmaze at 351.1768
+351.1768,Log,Load practise block and start trial: 351.1768
+351.1848,Log,All local feedback objects kept enabled for feedback type True in session 0
+351.1848,Log,Now disabling Instruction
+351.1848,Log,All practise control objects disabled for enablePractiseControl setting False in trial type practise_03_starmaze
+370.28,Log,Player has entered trigger: 370.28
+370.2902,Log,Current trial has ended: 370.2902
+374.3071,Log,Unload scene: Local_Practise_WP6_03-Starmaze_19-08-27 of type practise_03_starmaze at 374.3071
+374.3071,Log,Load scene: Local_Practise_WP6_03-Starmaze_19-08-27 of type practise_03_starmaze at 374.3071
+374.3071,Log,Load practise block and start trial: 374.3071
+374.3142,Log,Disable Trigger_F(Practise-03)
+374.3142,Log,All local feedback objects disabled for feedback type False in session 0
+374.3142,Log,Now disabling Instruction
+374.3142,Log,All practise control objects disabled for enablePractiseControl setting False in trial type practise_03_starmaze
+395.713,Log,Selected position is True - trigger Trigger_noF(Practise-03)
+395.713,Log,Current trial has ended: 395.713
+395.713,Log,Game is paused

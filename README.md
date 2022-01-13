@@ -55,3 +55,35 @@ strategy-analysis --> spatial strategy depending on final chosen location and tr
 Optional: data is saved as table in yourTable_currentDate.xlsx - file
 
 Quit by entering CTRL+C
+
+
+%% Motor control task analysis script
+@ date 200923 @author Deetje Iggena (deetje.iggena@charite.de)
+@ date 220113 last update
+analysis-script for starmaze version 190819 by Patrizia M Maier
+Matlab R2020b
+
+% Input:
+The analysis-script requires .csv as input-files. Input-files "trackepoint_movment_filename" should contain timestamp ("time"), x-position (pos_x), y-position (pos_z), rotation(rot_z)
+
+% BE AWARE:
+In case your input is organized differently, please adjust the reading-in process accordingly.
+
+% Output:
+Output is organized in a structured table and saved as yourTable_currentDate.mat-file
+Optional: data is written to a yourTable_currentDate.xlsx
+
+% After starting the script, you are asked to provide the first and the last ID of subjects. The script will search for ID-folders containing the subfolder 'S001', which should contain the relevant data as single csv.files containing data for single trials. Otherwise you have to change your input depending on your requirements
+
+% After relevant folders have been identified result folder and default-table "mct_currentDate" containing the structured table "mct" will be created.
+
+% data analysis is embedded in two loops, 1st participant-loop, 2nd file loop (.csv files containing the relevant data). Relevant files are identified. Irrelevant files like guidance trials, trial results and log-files are ignored. trial and group-information is retrieved from your  provided information
+
+% data analysis contains
+time-analysis --> latency
+trajectory-analysis --> path, distance, velocity
+
+% Finally, data is saved in yourTable_currentDate.mat
+Optional: data is saved as table in yourTable_currentDate.xlsx - file
+
+Quit by entering CTRL+C

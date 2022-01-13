@@ -1,12 +1,12 @@
 % function writes table data to xlsx.file
 
-function fam_writeToXLSX(fam, resultFolder)
+function fam_writeToXLSX(fam, resultFolder, nameString)
 
 formatOut = 'yymmdd';
 date      = datestr(now,formatOut);
 
 % name of excel-file
-file_name = ['fam_' date '.xlsx'];
+file_name = [nameString '_' date '.xlsx'];
 new_file = fullfile(resultFolder, file_name);
 
 S = [fam(:)];

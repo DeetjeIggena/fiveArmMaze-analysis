@@ -71,11 +71,6 @@ currentDirectory      = pwd; % contains data-folder
 addpath(genpath(currentDirectory)); % add subfolders containing functions
 finalFolderString     = 'S001'; % default --> folder contains starmaze task data
 
-%% Provide participant and group information
-gN                    = 2; % default      --> no of groups
-% subjectsAnalysedExp   = 0; % default 0    --> number of analyzed subjects in the experimental group
-% subjectsAnalysedCon   = 0; % defau62lt 0    --> number of analyzed subjects in the control group
-
 [subjectStart,subjectEnd] = fam_inputSubjectsNo();
 
 % check for existing participants, alternativeley provide participant-list/array
